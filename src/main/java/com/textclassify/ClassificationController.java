@@ -2,10 +2,7 @@ package com.textclassify;
 
 import io.javalin.http.Context;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class ClassificationController {
     // 存储会话历史记录
